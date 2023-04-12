@@ -2,8 +2,6 @@
 
 ## Sintaxe da Linguagem Python:
 
-### LISTA 01:
-
 1. Faça um código Python que peça um número e então mostre a mensagem “O número
 informado foi [número]”.
 
@@ -25,3 +23,7 @@ mostre:
 7. Faça um algoritmo para ler: número da conta do cliente, saldo, débito e crédito. Após, calcular e escrever o saldo atual (saldo atual = saldo - débito + crédito). Também testar se saldo atual for maior ou igual a zero escrever a mensagem 'Saldo Positivo', senão escrever a mensagem 'Saldo Negativo'.
 
 8. Escreva um algoritmo para ler o salário mensal atual de um funcionário e o percentual de reajuste. Calcular e escrever o valor do novo salário.
+
+## Lógica de Programação com Python:
+
+### Em Desenvolvimento
